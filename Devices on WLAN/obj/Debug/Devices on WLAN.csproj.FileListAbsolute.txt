@@ -1,0 +1,18 @@
+E:\Projects\Devices on WLAN\Devices on WLAN\bin\Debug\Devices on WLAN.exe.config
+E:\Projects\Devices on WLAN\Devices on WLAN\obj\Debug\Devices on WLAN.exe
+E:\Projects\Devices on WLAN\Devices on WLAN\obj\Debug\Devices on WLAN.pdb
+E:\Projects\Devices on WLAN\Devices on WLAN\bin\Debug\Devices on WLAN.exe
+E:\Projects\Devices on WLAN\Devices on WLAN\bin\Debug\Devices on WLAN.pdb
+E:\Projects\Devices on WLAN\Devices on WLAN\obj\Debug\Devices on WLAN.csprojResolveAssemblyReference.cache
+E:\Projects\Devices on WLAN\Devices on WLAN\obj\Debug\Devices_on_WLAN.Form1.resources
+E:\Projects\Devices on WLAN\Devices on WLAN\obj\Debug\Devices_on_WLAN.Properties.Resources.resources
+E:\Projects\Devices on WLAN\Devices on WLAN\obj\Debug\Devices on WLAN.csproj.GenerateResource.Cache
+D:\Projects\Devices on WLAN C#\Devices on WLAN\bin\Debug\Devices on WLAN.exe.config
+D:\Projects\Devices on WLAN C#\Devices on WLAN\obj\Debug\Devices on WLAN.exe
+D:\Projects\Devices on WLAN C#\Devices on WLAN\obj\Debug\Devices on WLAN.pdb
+D:\Projects\Devices on WLAN C#\Devices on WLAN\bin\Debug\Devices on WLAN.exe
+D:\Projects\Devices on WLAN C#\Devices on WLAN\bin\Debug\Devices on WLAN.pdb
+D:\Projects\Devices on WLAN C#\Devices on WLAN\obj\Debug\Devices on WLAN.csprojResolveAssemblyReference.cache
+D:\Projects\Devices on WLAN C#\Devices on WLAN\obj\Debug\Devices_on_WLAN.Form1.resources
+D:\Projects\Devices on WLAN C#\Devices on WLAN\obj\Debug\Devices_on_WLAN.Properties.Resources.resources
+D:\Projects\Devices on WLAN C#\Devices on WLAN\obj\Debug\Devices on WLAN.csproj.GenerateResource.Cache
